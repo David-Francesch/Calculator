@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TASCHENRECHNER</string>
+    <string name="sum">HINZUFÜGEN</string>
+    <string name="res">SUBTRAHIEREN</string>
+    <string name="ce">AUFRÄUMEN</string>
+    <string name="mul">MULTIPLY</string>
+
+</resources>

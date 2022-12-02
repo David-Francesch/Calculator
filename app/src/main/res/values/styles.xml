@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="estilobotones">
+        <item name="android:layout_marginHorizontal">10dp</item>
+        <item name="android:background">@color/green</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:onClick"></item>
+    </style>
+
+    <style name="estilofilas">
+        <item name="android:paddingVertical">5dp</item>
+    </style>
+
+    <style name="appcosas" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+    </style>
+
+</resources>
